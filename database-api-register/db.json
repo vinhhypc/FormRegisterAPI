@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vinnh",
+      "phone": "0985555555",
+      "email": "vinhhy@gmail.com",
+      "username": "vinhhy",
+      "password": "vinh"
+    },
+    {
+      "id": 2,
+      "name": "Vinnh2",
+      "phone": "098555666",
+      "email": "vinh@gmail.com",
+      "username": "vinhhy11",
+      "password": "vinh11"
+    },
+    {
+      "name": "vinh1111",
+      "email": "vinh@gmail.com",
+      "phone": "0977777777",
+      "userName": "vinh",
+      "password": "111",
+      "id": 3
+    }
+  ]
+}
